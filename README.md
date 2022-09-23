@@ -12,7 +12,7 @@ For a couple of months I have been thinking about starting to improve on issues 
 
 Code for me is not just a job but a passion that I have had for many years. And becoming one of the best software developers in the world is my goal.
 
-## Tecnologías:
+## Tech:
 [![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=000)]()
 [![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=000)]()
 [![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white&labelColor=000)]()
