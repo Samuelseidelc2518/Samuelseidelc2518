@@ -4,7 +4,7 @@
 &nbsp;
 [![Twitter Follow](https://img.shields.io/twitter/follow/sam_dot_tsx?style=social)](https://twitter.com/sam_dot_tsx)
 
-I'm a Software Engineer with more than 3 years of experience.
+I'm a Software Engineer with more than 4 years of experience.
 
 In 2019 after using C and C++ for several months of programming learning. I decided to venture into the web starting to learn HTML, CSS and Javascript and creating static websites and there I was advancing through node, express, backend, MVC, until today where I have mastered many technologies based in javascript and typescript for FullStack development of Frontend, Backend, Tests, Docker, Kubernetes, AWS, and more...
 
